@@ -1,1 +1,1 @@
-hosted link@ [https://fake-cloud-hosting-site.netlify.app/docs.html]
+hosted link@ [https://fake-cloud-hosting-site.netlify.app/index.html]
